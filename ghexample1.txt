@@ -1,1 +1,2 @@
 This is demo example of git-hub to work with. 
+This is local changes made afer cloning the repo. 
