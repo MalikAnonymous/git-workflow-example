@@ -1,2 +1,4 @@
 This is demo example of git-hub to work with. 
 This is local changes made afer cloning the repo. 
+This is some more local changes made on 27th of Mar in Setting in Soon Valley on the roof with some beautiful mountains in front of me. 
+Listening to multiple birds humming and chirping along with uncle typical voice on mobile phone, hahahahaha. 
